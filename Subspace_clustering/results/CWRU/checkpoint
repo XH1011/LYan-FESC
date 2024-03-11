@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/\345\255\246\344\271\240/Glow/Project_2_1/data/cwru_ylj/DE/sub_clustering/model/model.ckpt"
+all_model_checkpoint_paths: "D:/\345\255\246\344\271\240/Glow/Project_2_1/data/cwru_ylj/DE/sub_clustering/model/model.ckpt"
